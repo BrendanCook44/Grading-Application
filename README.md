@@ -3,7 +3,7 @@ Developed by Brendan Cook for coursework at The University of Toledo
 
 Installation:
 
-To install the program, run the .ps1 file located in the "Application Install" folder by right clicking the file and selecting "Run with PowerShell".    
+To install the program, right click the "Final Project Install.ps1" file located in the "Application Install" folder and select "Run with PowerShell".  
 Upon successful installation, a .JAR file will be placed on your desktop for you to be able to access the application.
 
 The application allows users to add/edit students, assignments,
