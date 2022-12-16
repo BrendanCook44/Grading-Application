@@ -1,1 +1,0 @@
-Run the PowerShell .ps1 file to install the application on your computer!
